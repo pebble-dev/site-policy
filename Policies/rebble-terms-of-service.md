@@ -23,7 +23,7 @@ Thank you for using Rebble! We're happy you're here. Please read this Terms of S
 | [M. Limitation of Liability](#m-limitation-of-liability) | We will not be liable for damages or losses arising from your use or inability to use the service or otherwise arising under this agreement. **Please read this section carefully; it limits our obligations to you.** |
 | [N. Release and Indemnification](#n-release-and-indemnification) | You are fully responsible for your use of the service. |
 | [O. Changes to these Terms of Service](#o-changes-to-these-terms) | We may modify this agreement, but we will give you 30 days' notice of changes that affect your rights. |
-| [P. Miscellaneous](#s-miscellaneous) | Please see this section for legal details including our choice of law. |
+| [P. Miscellaneous](#p-miscellaneous) | Please see this section for legal details including our choice of law. |
 
 ### The Rebble Terms of Service
 Effective date: June 26, 2018
